@@ -17,3 +17,14 @@
         - If loss, no balance to be transferred (as balance already deducted at time of making bet)
         - In either case, conclude the bet by setting a flag or moving the bet to a different mapping “completedBets” which is separate from “ongoingBets”
         - Emit an event containing gambler address and bet amount for every win
+
+
+Screenshot
+![Screenshot](./src/01.jpeg)
+![Screenshot](./src/02.jpeg)
+
+References<br />
+https://metamask.io/<br />
+https://remix.ethereum.org/<br />
+https://chainlist.org/<br />
+https://solidity-by-example.org/<br />
